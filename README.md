@@ -1,1 +1,1 @@
-# kanban-test
+# lab-agile-planning
